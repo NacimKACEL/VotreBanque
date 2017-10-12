@@ -1,4 +1,4 @@
-package com.finaxys;
+/*package com.finaxys;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -13,4 +13,4 @@ public class VotreBanqueApplicationTests {
 	public void contextLoads() {
 	}
 
-}
+}*/
